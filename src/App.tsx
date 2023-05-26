@@ -72,7 +72,7 @@ const App = () => {
           &nbsp; | Fork on&nbsp;
           <Link
             fontWeight="bold"
-            href="https://github.com/khairul169/Loli-License.git"
+            href="https://github.com/khairul169/loli-license.git"
           >
             Github
           </Link>
