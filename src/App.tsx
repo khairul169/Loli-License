@@ -69,6 +69,13 @@ const App = () => {
           >
             FLying Cookie
           </Link>
+          &nbsp; | Fork on&nbsp;
+          <Link
+            fontWeight="bold"
+            href="https://github.com/khairul169/Loli-License.git"
+          >
+            Github
+          </Link>
         </Text>
       </Box>
     </ChakraProvider>
