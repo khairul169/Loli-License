@@ -123,7 +123,7 @@ const CardCanvas = ({ onRef }: CardCanvasProps) => {
     if (onRef) {
       onRef({ onExport });
     }
-  }, []);
+  }, [onExport]);
 
   return (
     <Box
